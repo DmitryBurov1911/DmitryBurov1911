@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmitryBurov1911
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Python, HTML, CSS, Go
+- 🌱 I’m currently learning Dart, Python
 - 💞️ I’m looking to collaborate on programers
 - 📫 How to reach me kiberl354@gmail.com
 
